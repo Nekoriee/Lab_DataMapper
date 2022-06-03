@@ -1,0 +1,9 @@
+{
+    "name": "pcat/data-mapper",
+    "autoload": {
+        "psr-4": {
+            "Pcat\\DataMapper\\": "src/"
+        }
+    },
+    "require": {}
+}
